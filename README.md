@@ -31,7 +31,7 @@ coin_api.py : Gère la connexion et les requêtes vers CoinAPI, un service pour 
 Rôle : Centralise la configuration, notamment la clé API nécessaire pour accéder à CoinAPI.
 Explication : L'utilisation d'un fichier de configuration permet une gestion centralisée des paramètres, facilitant les modifications sans toucher au code source.
 
-6. # requirements.txt
+6. # requirements.txt : pip install -r requirements.txt
 Rôle : Liste toutes les dépendances Python nécessaires pour faire fonctionner l'application.
 Explication : Ce fichier est essentiel pour reproduire l'environnement d'exécution. Il est utilisé par pip pour installer toutes les bibliothèques nécessaires.
 
